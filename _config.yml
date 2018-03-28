@@ -1,21 +1,21 @@
 # Site wide configuration
 
-title: Site Title
+title: Researcher profile
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Anita Nordsteien
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "I am a PhD student in Information and library sciences at Oslo Meteropolitan University."
+  email: #anitano@oslomet.no
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
-  github: #username
+  github: #anitano
   orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
+  researchgate: #Anita_Nordsteien
   mendeley: #username
   google:
     plus: #username
